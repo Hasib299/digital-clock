@@ -1,0 +1,127 @@
+*{margin: 0;padding: 0;}
+body{
+	background-color:gray;
+}
+.js_body{
+	width: 530px;
+	min-height:700px; 
+	background-color: #41504eb5;
+	margin: auto;
+	margin-top:50px !important;
+	padding: 10px;
+}
+.header,.footer{
+	background-color:pink;
+	height: 50px;
+	min-width: 500px;
+	text-align: center;
+	padding: 20px 0px;
+	font-size: 30px;
+	font-weight:bold;
+}
+.body_ground{
+	min-height:600px;
+	padding: 20px;
+	color:#fff;
+	background: #808080;
+	font-size: 20px;
+
+}
+.container{
+	min-width: 310px;
+}
+.hour,.minute,.secound{
+	width: 91px;
+	height: 74px;
+	background-color: rgb(85, 181, 236);
+	display:inline-block;
+	margin: 0px;
+	padding: 0px;
+	font-size: 70px;
+	padding: 26px;
+}
+.progress{
+	height:5px;
+	width: 439px;
+	background-color:red;
+}
+*{margin: 0;padding: 0;}
+body{
+	background-color:gray;
+}
+.js_body{
+	width: 520px;
+	min-height:700px;
+	background-color: #41504eb5;
+	margin: auto;
+	margin-top:50px !important;
+	padding: 10px;
+}
+.header,.footer{
+	background-color:pink;
+	height: 50px;
+	min-width: 500px;
+	text-align: center;
+	padding: 20px 0px;
+	font-size: 30px;
+	font-weight:bold;
+}
+.body_ground{
+	min-height:600px;
+	padding: 20px;
+	color:#fff;
+	background: #808080;
+	font-size: 20px;
+
+}
+.container{
+	min-width: 310px;
+}
+.hour,.minute,.secound{
+	width: 91px;
+	height: 74px;
+	background-color: rgb(85, 181, 236);
+	display:inline-block;
+	margin: 0px;
+	padding: 0px;
+	font-size: 70px;
+	padding: 26px;
+}
+.progress{
+	height:5px;
+	width: 439px;
+	background-color:red;
+}
+.days{
+	padding: 0px 52px;
+	width: 374px;
+	letter-spacing: 35px;
+	background-color: #1b1f1b;
+}
+.user_msg{
+	font-style: oblique;
+	min-width: 142px;
+	height: 26px;
+	margin: 48px auto;
+	text-shadow: -3px 4px 10px black;
+	padding: 45px 73px;
+	font-size: 23px;
+	font-family: fantasy;
+	letter-spacing: 5px;
+	background: linear-gradient(45deg, #5cb778,#7745ade0, #59b542);
+	border-color: rgb(28, 206, 22);
+	border-style: double;
+	border-width: 10px;
+	border-radius: 50%;
+	color: #ff4d17;
+}
+.date,.year{
+	background: beige;
+    width: 110px;
+    height: 20px;
+    padding: 20px;
+    color: #000;
+    display: inline-block;
+    margin: 0px 31px 0px 46px;
+    border: 5px double #b35539;
+}
